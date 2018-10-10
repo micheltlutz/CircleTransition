@@ -1,4 +1,4 @@
-# CircleTransition - Swift4
+# CircleTransition - Swift 4.2
 
 
 <p align="center">
@@ -7,9 +7,9 @@
 
 
 
-# Como usar?
+# How to use?
 
-## Assinar protocolo UIViewControllerTransitioningDelegate
+## Sign the protocol UIViewControllerTransitioningDelegate
 
 ```swift
 extension ViewController: UIViewControllerTransitioningDelegate {
